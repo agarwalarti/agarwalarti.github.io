@@ -71,10 +71,6 @@ math = true
     name = "Books"
     url = "/books/"
 
-	[[params.profileMode.buttons]]
-    name = "Awards"
-    url = "/awards/"
-
     [[params.profileMode.buttons]]
     name = "A Random Variable"
     url = "https://www.arandomvariable.com/"
