@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://agarwalarti.github.io/hello-world/</loc>
+    <lastmod>2023-08-24T19:21:35+05:30</lastmod>
+  </url><url>
+    <loc>http://agarwalarti.github.io/about/</loc>
+    <lastmod>2023-08-08T00:23:38+05:30</lastmod>
+  </url><url>
+    <loc>http://agarwalarti.github.io/archive/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/awards/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/books/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/courses/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/research/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/categories/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/search/</loc>
+  </url><url>
+    <loc>http://agarwalarti.github.io/tags/</loc>
+  </url>
+</urlset>

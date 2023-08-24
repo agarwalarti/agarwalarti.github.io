@@ -1,4 +1,104 @@
 baseURL = 'http://agarwalarti.github.io/'
 languageCode = 'en-us'
+paginate = 20
 title = 'Arti Agarwal'
 theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+publishDir = "docs"
+
+relativeURLs = true
+
+
+[author]
+  name = "Arti Agarwal"
+  description = "I am a Researcher at IITK. Author of the book Cownomics. To-be Designer and Economist."
+  avatar = "/images/avatar.jpg"
+
+# [taxonomies]
+# tag = "tags"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+description = "I am a Researcher at IITK. Author of the book Cownomics. To-be Designer and Economist. My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
+author = "Arti Agarwal"
+DateFormat = "January 2006"
+defaultTheme = "light"
+hideFooter = true
+disableThemeToggle = false
+ShowShareButtons = false
+ShowReadingTime = false
+disableSpecial1stPost = true
+disableAnchoredHeadings = true
+ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = false
+ShowToc = false
+disableScrollToTop = true
+TocOpen = true
+ShowWordCount = false
+UseHugoToc = true
+comments = false
+math = true
+
+  [params.profileMode]
+  enabled = true
+  title = "Arti Agarwal"
+  subtitle = "I am a Researcher at IITK. Author of the book Cownomics. To-be Designer and Economist. My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
+  imageUrl = "/images/avatar.jpg"
+  imageWidth = 160
+  imageHeight = 160
+  imageTitle = "Arti Agarwal"
+
+    [[params.profileMode.buttons]]
+    name = "Research"
+    url = "/research/"
+
+    [[params.profileMode.buttons]]
+    name = "Courses"
+    url = "/courses/"
+
+    [[params.profileMode.buttons]]
+    name = "Books"
+    url = "/books//"
+
+	[[params.profileMode.buttons]]
+    name = "Awards"
+    url = "/awards/"
+
+    [[params.profileMode.buttons]]
+    name = "A Random Variable"
+    url = "https://www.arandomvariable.com/"
+
+  [[params.socialIcons]]
+  name = "CV"
+  url = "/cv.pdf"
+
+  [[params.socialIcons]]
+  name = "Email"
+  url = "mailto:arti21@iitk.ac.in"
+
+  [[params.socialIcons]]
+  name = "googlescholar"
+  url = "https://scholar.google.com/citations?user=nPaq4qkAAAAJ&hl=en"
+
+  [[params.socialIcons]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@agarwalarti"
+
+  [[params.socialIcons]]
+  name = "GitHub"
+  url = "https://github.com/agarwalarti"
+
+  [[params.socialIcons]]
+  name = "Medium"
+  url = "https://artiagarwal.medium.com/"
