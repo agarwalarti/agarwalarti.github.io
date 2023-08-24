@@ -76,7 +76,7 @@ math = true
     url = "https://www.arandomvariable.com/"
 
   [[params.socialIcons]]
-  name = "CV"
+  name = "cv"
   url = "/cv.pdf"
 
   [[params.socialIcons]]
