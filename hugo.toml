@@ -12,7 +12,7 @@ relativeURLs = true
 
 [author]
   name = "Arti Agarwal"
-  description = "I am a Researcher at IITK. Author of the book Cownomics. To-be Designer and Economist."
+  description = "I am a Researcher at IITK. Author of the book Cownomics."
   avatar = "/images/avatar.jpg"
 
 # [taxonomies]
@@ -23,12 +23,17 @@ name = "About"
 url = "/about/"
 weight = 1
 
+[[menu.main]]
+name = "CV"
+url = "/cv.pdf"
+weight = 2
+
 [minify]
 disableXML = false
 minifyOutput = true
 
 [params]
-description = "I am a Researcher at IITK. Author of the book Cownomics. To-be Designer and Economist. My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
+description = "I am a Researcher at IITK. Author of the book 'Cownomics.' My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
 author = "Arti Agarwal"
 DateFormat = "January 2006"
 defaultTheme = "light"
@@ -53,7 +58,7 @@ math = true
   [params.profileMode]
   enabled = true
   title = "Arti Agarwal"
-  subtitle = "I am a Researcher at IITK. Author of the book Cownomics. To-be Designer and Economist. My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
+  subtitle = "I am a Researcher at IITK. Author of the book 'Cownomics.' My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
   imageUrl = "/images/avatar.jpg"
   imageWidth = 160
   imageHeight = 160
@@ -64,24 +69,24 @@ math = true
     url = "/research/"
 
     [[params.profileMode.buttons]]
-    name = "Courses"
-    url = "/courses/"
+    name = "Teaching"
+    url = "/teaching/"
 
     [[params.profileMode.buttons]]
     name = "Books"
-    url = "/books//"
+    url = "/books/"
 
-	[[params.profileMode.buttons]]
-    name = "Awards"
-    url = "/awards/"
+	#[[params.profileMode.buttons]]
+  #  name = "Awards"
+  #  url = "/awards/"
 
     [[params.profileMode.buttons]]
     name = "A Random Variable"
     url = "https://www.arandomvariable.com/"
 
-  [[params.socialIcons]]
-  name = "CV"
-  url = "/cv.pdf"
+#  [[params.socialIcons]]
+#  name = "CV"
+#  url = "/cv.pdf"
 
   [[params.socialIcons]]
   name = "Email"
