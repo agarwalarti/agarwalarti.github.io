@@ -33,7 +33,7 @@ disableXML = false
 minifyOutput = true
 
 [params]
-description = "I am a Researcher at IITK. Author of the book 'Cownomics.' My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
+description = "I am a Researcher at IITK. Author of the book Cownomics. My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
 author = "Arti Agarwal"
 DateFormat = "January 2006"
 defaultTheme = "light"
@@ -58,7 +58,7 @@ math = true
   [params.profileMode]
   enabled = true
   title = "Arti Agarwal"
-  subtitle = "I am a Researcher at IITK. Author of the book 'Cownomics.' My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
+  subtitle = "I am a Researcher at IITK. Author of the book Cownomics. My work spans Design for  Sustainanbility (DfS), Environmental Sciences, Environmental Economics and Natural Resource Economics."
   imageUrl = "/images/avatar.jpg"
   imageWidth = 160
   imageHeight = 160
