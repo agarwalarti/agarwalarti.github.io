@@ -23,11 +23,6 @@ name = "About"
 url = "/about/"
 weight = 1
 
-#[[menu.main]]
-#name = "CV"
-#url = "/cv.pdf"
-#weight = 2
-
 [minify]
 disableXML = false
 minifyOutput = true
@@ -76,17 +71,17 @@ math = true
     name = "Books"
     url = "/books/"
 
-	#[[params.profileMode.buttons]]
-  #  name = "Awards"
-  #  url = "/awards/"
+	[[params.profileMode.buttons]]
+    name = "Awards"
+    url = "/awards/"
 
     [[params.profileMode.buttons]]
     name = "A Random Variable"
     url = "https://www.arandomvariable.com/"
 
-#  [[params.socialIcons]]
-#  name = "CV"
-#  url = "/cv.pdf"
+  [[params.socialIcons]]
+  name = "CV"
+  url = "/cv.pdf"
 
   [[params.socialIcons]]
   name = "Email"
