@@ -1,69 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Arti Agarwal</title>
-    <link>http://agarwalarti.github.io/</link>
-    <description>Recent content on Arti Agarwal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://agarwalarti.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://agarwalarti.github.io/hello-world/</link>
-      <pubDate>Thu, 24 Aug 2023 19:21:35 +0530</pubDate>
-      
-      <guid>http://agarwalarti.github.io/hello-world/</guid>
-      <description>I am not happy. That is why I code.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://agarwalarti.github.io/about/</link>
-      <pubDate>Tue, 08 Aug 2023 00:23:38 +0530</pubDate>
-      
-      <guid>http://agarwalarti.github.io/about/</guid>
-      <description>Arti Agarwal is a PhD Scholar in the Department of Design at IIT Kanpur. She is an alum of IIT Roorkee (2007) and Massachusetts Institute of Technology (2020). She was also accepted for admission to Ohio State University for Masters of Landscape Architecture (2007) and to Boston University for MS in Economics (2011), both of which she did not pursue, choosing to contribute to her country instead.
-A polymath, Arti has had a successful run in many disciplines.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://agarwalarti.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://agarwalarti.github.io/archive/</guid>
-      <description>. ├── config.yml ├── content/ │ ├── archives.md &amp;lt;&amp;mdash; Create archive.md here │ └── posts/ ├── static/ └── themes/ └── PaperMod/
-title: &amp;ldquo;Archive&amp;rdquo; layout: &amp;ldquo;archives&amp;rdquo; url: &amp;ldquo;/archives/&amp;rdquo; summary: archives </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://agarwalarti.github.io/awards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://agarwalarti.github.io/awards/</guid>
-      <description>Most Influential Content Marketing Professional by World Marketing Congress (2017):
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Arti Agarwal</title><link>https://agarwalarti.github.io/</link><description>Recent content on Arti Agarwal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://agarwalarti.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://agarwalarti.github.io/hello-world/</link><pubDate>Thu, 24 Aug 2023 19:21:35 +0530</pubDate><guid>https://agarwalarti.github.io/hello-world/</guid><description>I am not happy. That is why I code.</description></item><item><title>About</title><link>https://agarwalarti.github.io/about/</link><pubDate>Tue, 08 Aug 2023 00:23:38 +0530</pubDate><guid>https://agarwalarti.github.io/about/</guid><description>Arti Agarwal is a PhD Scholar in the Department of Design at IIT Kanpur. She is an alum of IIT Roorkee (2007) and Massachusetts Institute of Technology (2020). She was also accepted for admission to Ohio State University for Masters of Landscape Architecture (2007) and to Boston University for MS in Economics (2011), both of which she did not pursue, choosing to contribute to her country instead.
+A polymath, Arti has had a successful run in many disciplines.</description></item><item><title/><link>https://agarwalarti.github.io/archive/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://agarwalarti.github.io/archive/</guid><description>. ├── config.yml ├── content/ │ ├── archives.md &amp;lt;&amp;mdash; Create archive.md here │ └── posts/ ├── static/ └── themes/ └── PaperMod/
+title: &amp;ldquo;Archive&amp;rdquo; layout: &amp;ldquo;archives&amp;rdquo; url: &amp;ldquo;/archives/&amp;rdquo; summary: archives</description></item><item><title/><link>https://agarwalarti.github.io/awards/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://agarwalarti.github.io/awards/</guid><description>Most Influential Content Marketing Professional by World Marketing Congress (2017):
 Received the award for the &amp;lsquo;Most Influential Content Marketing Professional&amp;rsquo;, at the Content Marketing Summit, Mumbai, organized by the World Marketing Congress.
 Honorable Mention in the International Photography Awards (IPA) Competition (2012):
-Awarded an Honorable Mention in the International Photography Awards (IPA) Competition 2012, 10-year Anniversary Edition. Winning entry was in the ‘Architecture - Buildings’ category, titled &amp;ldquo;Light, the Binder of Spaces.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://agarwalarti.github.io/books/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://agarwalarti.github.io/books/</guid>
-      <description>Arti&amp;rsquo;s first book, Cownomics, was released on 21 March, 2021, in Kindle as well as paperback formats. The purpose of the book was to outline a need for moving towards a cow-based, environmentally sustainable, cruelty-free agrarian economy, and the need for research in this area in multiple disciplines.
-The book addresses the significance of the cow and cow-based-products from multiple angles: health, environment, history, spirituality and agriculture. It posits that the the environmental damage accrued from beef and leather industries is not properly weighed in the balance when assessing the profits from these industries, and that the environmental damage caused is grievous and long-term.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://agarwalarti.github.io/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://agarwalarti.github.io/courses/</guid>
-      <description>Courses: System Design for Sustainability (July-October 2023)
+Awarded an Honorable Mention in the International Photography Awards (IPA) Competition 2012, 10-year Anniversary Edition. Winning entry was in the ‘Architecture - Buildings’ category, titled &amp;ldquo;Light, the Binder of Spaces.</description></item><item><title/><link>https://agarwalarti.github.io/books/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://agarwalarti.github.io/books/</guid><description>Arti&amp;rsquo;s first book, Cownomics, was released on 21 March, 2021, in Kindle as well as paperback formats. The purpose of the book was to outline a need for moving towards a cow-based, environmentally sustainable, cruelty-free agrarian economy, and the need for research in this area in multiple disciplines.
+The book addresses the significance of the cow and cow-based-products from multiple angles: health, environment, history, spirituality and agriculture. It posits that the the environmental damage accrued from beef and leather industries is not properly weighed in the balance when assessing the profits from these industries, and that the environmental damage caused is grievous and long-term.</description></item><item><title/><link>https://agarwalarti.github.io/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://agarwalarti.github.io/courses/</guid><description>Courses: System Design for Sustainability (July-October 2023)
 Teaching Assistant for the NPTEL Course by Prof Sharmistha Banerjee (IIT Guwahati).
 Live Session Videos
 Design, Technology and Innovation (July-October 2023)
@@ -73,21 +14,7 @@ Design for Sustainability
 TBA
 Previous Teaching Experience: Raffle Millennium International, Bangalore
 Lecturer for Bachelor of Design (B. Des.) track (2013). Courses taught:
-Print Design, Packaging Design, Portfolio Design.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://agarwalarti.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://agarwalarti.github.io/research/</guid>
-      <description>Research Interests: Design for Sustainability, Environmental Design, Environmental Economics, Natural Resource Economics.
+Print Design, Packaging Design, Portfolio Design.</description></item><item><title/><link>https://agarwalarti.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://agarwalarti.github.io/research/</guid><description>Research Interests: Design for Sustainability, Environmental Design, Environmental Economics, Natural Resource Economics.
 Research Articles:
 Agarwal, A &amp;amp; Chani, P S, &amp;ldquo;Implementation of Multifunctional Land Use in Roorkee Town,&amp;rdquo; Architecture–Time, Space and People, Journal of Council of Architecture, India, Oct 2006. View Article.
-Agarwal A, &amp;ldquo;Hampi: A Journey into the Past to Unravel the Artistry of the Vijayanagara Kings,&amp;rdquo; Architecture–Time, Space &amp;amp; People, Journal of Council of Architecture, India, April 2011.</description>
-    </item>
-    
-    
-  </channel>
-</rss>
+Agarwal A, &amp;ldquo;Hampi: A Journey into the Past to Unravel the Artistry of the Vijayanagara Kings,&amp;rdquo; Architecture–Time, Space &amp;amp; People, Journal of Council of Architecture, India, April 2011.</description></item></channel></rss>

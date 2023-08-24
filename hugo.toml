@@ -1,4 +1,4 @@
-baseURL = 'http://agarwalarti.github.io/'
+baseURL = 'https://agarwalarti.github.io/'
 languageCode = 'en-us'
 paginate = 20
 title = 'Arti Agarwal'
@@ -24,7 +24,7 @@ url = "/about/"
 weight = 1
 
 [minify]
-disableXML = true
+disableXML = false
 minifyOutput = true
 
 [params]
@@ -102,3 +102,8 @@ math = true
   [[params.socialIcons]]
   name = "Medium"
   url = "https://artiagarwal.medium.com/"
+
+  [params.label]
+  text = "Arti Agarwal"
+  icon = "images/favicon.ico"
+  iconHeight = 18
