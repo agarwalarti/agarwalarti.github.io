@@ -1,42 +1,17 @@
 
 ## **Teaching:**
 
-*System Design for Sustainability (July-October 2023)*
+### ***Graduate***
 
-Teaching Assistant for the [NPTEL Course by Prof Sharmistha Banerjee (IIT Guwahati)](https://nptel.ac.in/courses/107103081).
+Teaching Assistant for the *[NPTEL Course 'System Design for Sustainability' by Prof Sharmistha Banerjee, IIT Guwahati]*(https://nptel.ac.in/courses/107103081), July-October 2023.
 
-[[Live Session Videos](https://youtube.com/playlist?list=PLOUP-yymF6URohGAPVrvsjF9me0fyETkC)] [[Class Handouts](https://github.com/agarwalarti/de14/tree/main/Handouts)] [[Practice Problem Sets](https://github.com/agarwalarti/de14/tree/main/Practice%20Problems)]
+Teaching Assistant, *Economics of Platforms*, part of the eMasters program at IIT Kanpur, September-November 2023.
 
-*Design, Technology and Innovation (July-October 2023)*
+Teaching Assistant, *New Integrated Product Development (DES633A)*, IIT Kanpur, Autumn 2022-23.
 
-Teaching Assistant for the [NPTEL Course by Prof B. K. Chakravarty (IIT Bombay)](https://nptel.ac.in/courses/107101088).
+Instructor, Workshop on Clay Modeling taught to 50+ participants in the Department of Design, IIT Kanpur, 2022.
 
-[Live Session Videos](https://youtube.com/playlist?list=PLOUP-yymF6UQOMYxTn3j9LNScTy5HMX1m)
-
-*Design for Sustainability*
-
-TBA
-
-
-
-## **Previous Teaching Experience:**
-
-*Raffle Millennium International, Bangalore*
-
-Lecturer for Bachelor of Design (B. Des.) track (2013). Courses taught:
-
-Print Design,
-Packaging Design,
-Portfolio Design.
-
-
-*Indian Institute of Technology Kanpur (2022)*
-
-Teaching Assistant, New Integrated Product Development (DES633A), Autumn 2022-23.
-
-Taught a Workshop on Clay Modeling to 50+ participants in the Department of Design.
-
-Lectures for African-Asian Development Organization (AARDO) Training by MedTech Lab, IIT Kanpur (17-24 Nov 2022):
+Lectures for African-Asian Development Organization (AARDO) Training by MedTech Lab, IIT Kanpur, 17-24 Nov 2022:
 
 1. Climate Change, the Social Cost of Carbon & the Differential Impact on Developing Countries
 
@@ -44,12 +19,20 @@ Lectures for African-Asian Development Organization (AARDO) Training by MedTech 
 
 3. Environmental Impact Assessment
 
+Guest Lecture on Cownomics at Indus University, 2021.
 
+Guest Lecture on Content Marketing at IIM Indore, 2018.
 
-*Guest Lectures*
+### ***Undergraduate***
 
-* Guest Lecture at Department of Architecture and Planning, IIT Roorkee on Architectural Photography (2014)
+Guest Lectures, *Mathematical Optimization for Economic Applications*, Navyug Kanya Mahavidyalaya, October 2023.
 
-* Guest Lecture at IIM Indore on Content Marketing (2018)
+Teaching Assistant for the *[NPTEL Course 'Design, Technology and Innovation' by Prof B. K. Chakravarty, IIT Bombay]*(https://nptel.ac.in/courses/107101088), July-September 2023.
 
-* Guest Lecture at Indus University on Cownomics (2021)
+Lecturer for B. Des., Raffle Millennium International, Bangalore, 2014. Courses taught:
+
+* Print Design
+* Packaging Design
+* Portfolio Design
+
+Guest Lecture on Architectural Photography, Department of Architecture and Planning, IIT Roorkee, 2014.
