@@ -35,4 +35,4 @@
 
 - Guest Lecture on *Architectural Photography*, Department of Architecture and Planning, IIT Roorkee, 2014.
 
-- Courses on *Print Design, Packaging Design, Portfolio Design* tuaght to B.Des. at Raffle Millennium International, Bangalore, 2014
+- Courses on *Print Design, Packaging Design, Portfolio Design* taught to B.Des. at Raffle Millennium International, Bangalore, 2014
