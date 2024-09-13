@@ -1,6 +1,6 @@
 baseURL = 'https://agarwalarti.github.io/'
 languageCode = 'en-us'
-paginate = 20
+pagerSize = 20
 title = 'Arti Agarwal'
 theme = "PaperMod"
 enableInlineShortcodes = true
@@ -77,7 +77,7 @@ math = true
 
   [[params.socialIcons]]
   name = "cv"
-  url = "/cv.pdf"
+  url = "https://bit.ly/3zhP5fP"
 
   [[params.socialIcons]]
   name = "Email"
