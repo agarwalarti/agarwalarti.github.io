@@ -15,15 +15,15 @@
 
 - Lectures for African-Asian Development Organization (AARDO) Training by MedTech Lab, IIT Kanpur, 17-24 Nov 2022:
 
-* Climate Change, the Social Cost of Carbon & the Differential Impact on Developing Countries
+  1. Climate Change, the Social Cost of Carbon & the Differential Impact on Developing Countries
 
-* Moving towards a Sustainable Economy: the Way Forward
+  2. Moving towards a Sustainable Economy: the Way Forward
 
-* Environmental Impact Assessment
+  3. Environmental Impact Assessment
 
-- Guest Lecture on Cownomics at Indus University, 2021.
+- Guest Lecture on *Cownomics* at Indus University, 2021.
 
-- Guest Lecture on Content Marketing at IIM Indore, 2018.
+- Guest Lecture on *Content Marketing* at IIM Indore, 2018.
 
 ### ***Undergraduate***
 
@@ -33,10 +33,6 @@
 
 - Guest Lectures, *Mathematical Optimization for Economic Applications*, Navyug Kanya Mahavidyalaya, October 2023.
 
-- Lecturer for B. Des., Raffle Millennium International, Bangalore, 2014. Courses taught:
+- Guest Lecture on *Architectural Photography*, Department of Architecture and Planning, IIT Roorkee, 2014.
 
-* Print Design
-* Packaging Design
-* Portfolio Design
-
-- Guest Lecture on Architectural Photography, Department of Architecture and Planning, IIT Roorkee, 2014.
+- Courses on *Print Design, Packaging Design, Portfolio Design* tuaght to B.Des. at Raffle Millennium International, Bangalore, 2014
