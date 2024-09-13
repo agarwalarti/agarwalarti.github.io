@@ -1,6 +1,6 @@
 baseURL = 'https://agarwalarti.github.io/'
 languageCode = 'en-us'
-pagerSize = 20
+paginate = 20
 title = 'Arti Agarwal'
 theme = "PaperMod"
 enableInlineShortcodes = true
