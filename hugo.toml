@@ -72,12 +72,12 @@ math = true
     url = "/books/"
 
     [[params.profileMode.buttons]]
-    name = "A Random Variable"
-    url = "https://www.arandomvariable.com/"
+    name = "Design for Sustainability"
+    url = "https://www.dfsustainability.com/"
 
   [[params.socialIcons]]
   name = "cv"
-  url = "https://bit.ly/3zhP5fP"
+  url = "https://www.dropbox.com/scl/fi/ifbtoe4pxu99ggbsuz7r3/Arti_Agarwal_CV_Apr2025.pdf?rlkey=iu4s6wznkcfa89rz5uka520yi&st=nbrzs95x&dl=0"
 
   [[params.socialIcons]]
   name = "Email"
