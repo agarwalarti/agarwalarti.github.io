@@ -7,6 +7,7 @@
   <meta name="description" content="Arti Agarwal — PhD Scholar at IIT Kanpur. Researcher in Design for Sustainability, Environmental Economics, and Natural Resource Economics." />
   <link rel="icon" href="images/favicon.ico" />
   <link rel="stylesheet" href="style.css" />
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 </head>
 <body>
 
@@ -39,20 +40,20 @@
 
   <div class="home-links">
     <a href="research/" class="home-link-card">
-      <span class="card-icon">📄</span> Research
-      <span class="card-arrow">→</span>
+      <span class="card-icon"><i data-lucide="file-text"></i></span> Research
+      <span class="card-arrow"><i data-lucide="arrow-right"></i></span>
     </a>
     <a href="teaching/" class="home-link-card">
-      <span class="card-icon">🎓</span> Teaching
-      <span class="card-arrow">→</span>
+      <span class="card-icon"><i data-lucide="graduation-cap"></i></span> Teaching
+      <span class="card-arrow"><i data-lucide="arrow-right"></i></span>
     </a>
     <a href="books/" class="home-link-card">
-      <span class="card-icon">📚</span> Books
-      <span class="card-arrow">→</span>
+      <span class="card-icon"><i data-lucide="book-open"></i></span> Books
+      <span class="card-arrow"><i data-lucide="arrow-right"></i></span>
     </a>
     <a href="https://www.arandomvariable.com/" class="home-link-card" target="_blank" rel="noopener">
-      <span class="card-icon">✍️</span> A Random Variable ↗
-      <span class="card-arrow">→</span>
+      <span class="card-icon"><i data-lucide="pen-line"></i></span> A Random Variable
+      <span class="card-arrow"><i data-lucide="external-link"></i></span>
     </a>
   </div>
 </main>
@@ -62,5 +63,6 @@
   <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </footer>
 
+<script>lucide.createIcons();</script>
 </body>
 </html>

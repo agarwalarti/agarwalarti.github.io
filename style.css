@@ -156,18 +156,24 @@ main {
   transform: translateY(-2px);
 }
 
+
+
+.card-icon {
+  display: flex;
+  align-items: center;
+  color: var(--accent);
+}
+.card-icon svg { width: 16px; height: 16px; stroke-width: 2; }
+
 .home-link-card .card-arrow {
   margin-left: auto;
   color: var(--accent);
-  font-size: 1rem;
+  display: flex;
+  align-items: center;
   opacity: 0;
   transition: opacity 0.2s;
 }
-.home-link-card:hover .card-arrow { opacity: 1; }
-
-.card-icon {
-  font-size: 1.1rem;
-}
+.home-link-card .card-arrow svg { width: 15px; height: 15px; }
 
 /* ── Page header ───────────────────────────── */
 .page-header {
@@ -322,7 +328,8 @@ main {
   color: var(--text-soft);
   font-size: 0.93rem;
 }
-.placeholder-box .ph-icon { font-size: 2rem; margin-bottom: 0.75rem; }
+.placeholder-box .ph-icon { margin-bottom: 0.75rem; display: flex; justify-content: center; }
+.placeholder-box .ph-icon svg { width: 28px; height: 28px; color: var(--text-soft); stroke-width: 1.5; }
 .placeholder-box p { max-width: 360px; margin: 0 auto; }
 
 /* ── Footer ────────────────────────────────── */
