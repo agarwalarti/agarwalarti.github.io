@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://agarwalarti.github.io/sitemap.xml
