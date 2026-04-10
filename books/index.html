@@ -7,6 +7,7 @@
   <meta name="description" content="Books by Arti Agarwal — including Cownomics (2021)." />
   <link rel="icon" href="../images/favicon.ico" />
   <link rel="stylesheet" href="../style.css" />
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 </head>
 <body>
 
@@ -31,10 +32,10 @@
   <div class="section">
 
     <div class="book-card">
-      <div class="book-cover">🐄</div>
+      <img src="../images/cownomics-cover.jpg" alt="Cownomics book cover" class="book-cover-img" />
       <div class="book-meta">
         <h2>Cownomics</h2>
-        <p class="book-subtitle">Published 2021</p>
+        <p class="book-subtitle">The Holy Cow — Fulcrum of a Civilization · NotionPress, 2021</p>
         <p>
           <em>Cownomics</em> sheds light on the need to move towards a
           sustainable, cruelty-free cow-based economy in India. The book
@@ -42,7 +43,7 @@
           heritage to make the case for a humane and productive relationship
           with bovine resources.
         </p>
-        <!-- Add a purchase/info link below if you have one:
+        <!-- Add a purchase link if you have one:
         <p style="margin-top:0.8rem">
           <a href="YOUR_LINK_HERE" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;">
             Find on Amazon →
@@ -52,19 +53,6 @@
       </div>
     </div>
 
-    <!-- 
-      TEMPLATE: Copy this block to add another book.
-
-      <div class="book-card">
-        <div class="book-cover">📖</div>
-        <div class="book-meta">
-          <h2>Book Title</h2>
-          <p class="book-subtitle">Published YEAR</p>
-          <p>Description of the book.</p>
-        </div>
-      </div>
-    -->
-
   </div>
 </main>
 
@@ -72,6 +60,6 @@
   © <span id="yr"></span> Arti Agarwal
   <script>document.getElementById('yr').textContent = new Date().getFullYear();</script>
 </footer>
-
+<script>lucide.createIcons();</script>
 </body>
 </html>
